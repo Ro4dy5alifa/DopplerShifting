@@ -109,8 +109,8 @@ Angle: 0°
 - **Roshdy Elsayed Khalifah**
 - **Kareem Essam Elsayed**
 - **Helmy Ekramy Helmy**
-- **Youssef Hany Sakr Mohammed**
-- **Naem**
+- **Youssef Hany Sakr**
+- **Mohammed Naem**
 
 ---
 
@@ -123,3 +123,4 @@ Angle: 0°
 
 ## 📚 License
 This project is provided for **educational and academic purposes only**.
+
